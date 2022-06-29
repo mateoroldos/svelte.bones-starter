@@ -29,7 +29,8 @@
 		"svelte-check": "^2.7.1",
 		"svelte-preprocess": "^4.10.6",
 		"tslib": "^2.3.1",
-		"typescript": "^4.7.2"
+		"typescript": "^4.7.2",
+		"@mateoroldos/svelte.bones": "^0.0.2"
 	},
 	"type": "module"
 }

@@ -1,7 +1,6 @@
 <script>
 	import { appName, appDescription } from '../config/config';
-	import Section from '$lib/components-delete/Section.svelte';
-	import Column from '$lib/components-delete/Column.svelte';
+	import { Section, Column } from '@mateoroldos/svelte.bones';
 </script>
 
 <Section>
